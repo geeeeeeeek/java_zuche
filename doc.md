@@ -5,13 +5,7 @@
 
 一直想做一款车辆租赁管理系统，看了很多优秀的开源项目但是发现没有合适的。于是利用空闲休息时间开始自己写了一套管理系统。学习过程中遇到问题可以咨询微信：lengqin1024 或者发Email: kefu308@gmail.com
 
-## 在线体验
 
-
-- 代码下载：https://github.com/geeeeeeeek/java_zuche
-- 演示地址：http://zuche.gitapp.cn/
-
-（账号：admin123 密码：admin123）
 
 ## 功能介绍
 
