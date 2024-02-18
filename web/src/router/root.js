@@ -136,15 +136,6 @@ const constantRouterMap = [
       { path: 'order', name: 'order', component: () => import('/@/views/admin/order.vue') },
       { path: 'thing', name: 'thing', component: () => import('/@/views/admin/thing.vue') },
       { path: 'comment', name: 'comment', component: () => import('/@/views/admin/comment.vue') },
-      { path: 'user', name: 'user', component: () => import('/@/views/admin/user.vue') },
-      { path: 'classification', name: 'classification', component: () => import('/@/views/admin/classification.vue') },
-      { path: 'tag', name: 'tag', component: () => import('/@/views/admin/tag.vue') },
-      { path: 'ad', name: 'ad', component: () => import('/@/views/admin/ad.vue') },
-      { path: 'notice', name: 'notice', component: () => import('/@/views/admin/notice.vue') },
-      { path: 'loginLog', name: 'loginLog', component: () => import('/@/views/admin/login-log.vue') },
-      { path: 'opLog', name: 'opLog', component: () => import('/@/views/admin/op-log.vue') },
-      { path: 'errorLog', name: 'errorLog', component: () => import('/@/views/admin/error-log.vue') },
-      { path: 'sysInfo', name: 'sysInfo', component: () => import('/@/views/admin/sys-info.vue') },
     ]
   },
 ];
